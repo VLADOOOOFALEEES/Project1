@@ -44,3 +44,21 @@ _____________________
 
 [Техническое задание](https://github.com/user-attachments/files/18794094/default.docx)
 
+# Референсы:
+## Игра:
+![Игра](https://github.com/user-attachments/assets/fa709c86-160a-404b-8206-5c57931e5303)
+
+## Меню:
+![Меню](https://github.com/user-attachments/assets/d273e0a5-6f68-4fee-929b-9bbeabf09aed)
+
+## Обучение:
+![Обучение](https://github.com/user-attachments/assets/20726a40-6fbe-4105-8240-3c0f752996c1)
+
+## Опции:
+![Опции](https://github.com/user-attachments/assets/637b8cfa-d6aa-4fde-9f2c-096b6238b245)
+
+## Сетевая игра:
+![Сетевая игра](https://github.com/user-attachments/assets/ea692379-6e60-4256-8699-af26217cfe17)
+
+
+
